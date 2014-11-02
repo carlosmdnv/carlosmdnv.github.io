@@ -1,0 +1,10 @@
+Package: com.carlosmdnv.flater8
+Name: Flater8 
+Version: 1.0 
+Architecture: iphoneos-arm 
+Description: Flater8 is a flat and clean design for your device. 
+Depiction: http://www.carlosmdnv.com/index.html
+Homepage: http://www.carlosmdnv.com 
+Maintainer: Carlos Medina <contacto@carlosmdnv.com> 
+Author: Carlos Medina <contacto@carlosmdnv.com> 
+Section: Temas (carlosmdnv) 
