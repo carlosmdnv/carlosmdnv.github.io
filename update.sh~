@@ -2,4 +2,4 @@
 ./packages.sh
 
 dpkg-scanpackages -m . /dev/null >Packages
-gzip -f Packages
+bzip2 Packages
