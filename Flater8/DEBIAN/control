@@ -3,9 +3,8 @@ Name: Flater8
 Version: 1.0
 Architecture: iphoneos-arm
 Author: Carlos Medina <contacto@carlosmdnv.com>
-Depends: winterboard, com.carlosmdnv.repoicons
 Depiction: http://modmyi.com/info/solstice.d.php
-Section: Temas (carlosmdnv)
+Section: CM - Temas
 Description: Flater 8 is a flat and simple design for your iOS device!
 Homepage: http://carlosmdnv.com
 Maintainer: Carlos Medina <contacto@carlosmdnv.com>
