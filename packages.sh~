@@ -1,1 +1,1 @@
-dpkg-deb -b Flater8
+dpkg-deb -b -Zgzip Flater8

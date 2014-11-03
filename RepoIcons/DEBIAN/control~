@@ -1,11 +1,10 @@
-Package: com.carlosmdnv.flater8
-Name: Flater8
+Package: com.carlosmdnv.repoicons
+Name: Repo Icons
 Version: 1.0
 Architecture: iphoneos-arm
 Author: Carlos Medina <contacto@carlosmdnv.com>
-Depends: winterboard, com.carlosmdnv.repoicons
 Depiction: http://modmyi.com/info/solstice.d.php
-Section: Temas (carlosmdnv)
-Description: Flater 8 is a flat and simple design for your iOS device!
+Section: Iconos de la repo (carlosmdnv)
+Description: Iconos para las diferentes secciones de la repo.
 Homepage: http://carlosmdnv.com
 Maintainer: Carlos Medina <contacto@carlosmdnv.com>

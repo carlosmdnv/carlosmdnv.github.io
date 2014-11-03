@@ -1,0 +1,9 @@
+Package: com.carlosmdnv.repoicons
+Name: Repo Icons
+Version: 1.0
+Architecture: iphoneos-arm
+Author: Carlos Medina <contacto@carlosmdnv.com>
+Section: Iconos de la repo (carlosmdnv)
+Description: Iconos para las diferentes secciones de la repo.
+Homepage: http://carlosmdnv.com
+Maintainer: Carlos Medina <contacto@carlosmdnv.com>
