@@ -1,5 +1,0 @@
-./commands/remove.sh
-./commands/packages.sh
-
-dpkg-scanpackages -m . /dev/null >Packages
-gzip -f Packages
